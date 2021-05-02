@@ -1,0 +1,119 @@
+Credit: https://targetjobs.co.uk/career-sectors/investment-banking-and-investment/418376-a-graduate-glossary-of-investment-terminology
+
+Analyst: person who studies an industry sector and makes BUY, HOLD and SELL recommendations. Also, a different term referring to entry-level career position in many investment banks.
+
+Asset: an item with economic value that is owned or controlled by an individual, business or government.
+
+Bear: investor who sells believing prices will fall.
+
+Bid price: the price at which the market maker will buy.
+
+Bonds: a government, or company can raise capital by issuing a bond. Bondholders receive interest (a ‘coupon’) and the capital is repaid at maturity. The difference between bonds and loans is that bonds can be traded between investors (who are lending to the issuer).
+
+
+Broker: intermediary between a buyer and a seller, receiving commission on the trade.
+
+Brokerage: the payment from the client to the broker.
+
+Bull: investor who buys believing prices will rise.
+
+Capital markets: the market for long-term funding, eg bonds and equity.
+
+Casino banking/finance: a colloquial term used to describe an investment approach in which investors at commercial banks employ risky financial strategies to earn large rewards.
+
+Chinese walls: information barriers within investment banks to manage potential compliance and conflict of interest issues.
+
+Clearing: the mechanism for making transactions happen: matching the buyer and seller, making sure the buyer has the cash and the seller has the securities.
+
+Commodities: goods such as oil, petrol, metal or grain.
+
+
+Credit crunch: the term that has come into common usage to refer to a severe shortage of money or credit. The start of the global credit crunch can be dated to August 2007 when default rates on sub-prime loans in the US housing market rose to record levels.
+
+Credit default swap: insurance-like contract that transfers credit risk. The buyer of the swap makes payments to the seller in exchange for protection in the event of a default. Banks and other institutions have used credit default swaps to cover the risk of mortgage holders defaulting.
+
+Debt capital markets (DCM): investment bank division responsible for issuance and pricing of debt securities (eg bonds).
+
+Derivatives: the group term for financial contracts between buyers and sellers of commodities or securities. Includes futures, options or swaps. Derivatives allow profit from the rise (or fall) of a commodity or security, without actually buying the underlying good.
+
+Equity: otherwise referred to as shares. Shareholders own a percentage of the company, and have a share in profits, as well as control via voting rights.
+
+Equity capital markets (ECM): investment bank division responsible for structuring and pricing the issuance of equities, such as at IPO (Initial Public Offering – flotation of the company on the stock exchange).
+
+FTSE 100/250 index: the index of the 100/250 largest companies on the UK stock market.
+
+Futures: contract between two parties to trade a commodity or security at a fixed price and a fixed future date.
+
+Gilts: bonds issued on behalf of the UK government to fund spending. Known as ‘gilt-edged securities’ because the bond contracts used to have gold round the edge.
+
+Hard market: a scarcity of a product or service for purchase, as opposed to a soft market, in which the product or service is readily available.
+
+Hedge: strategy offsetting the possibility of loss by holding two contrary positions in different financial instruments.
+
+Hedge fund: a private investment fund that uses a range of strategies to maximise returns, including hedging. 
+
+Insider dealing: criminal offence made by trading on knowledge of non-public information.
+
+Interest rates: lenders demand interest on loans. The rate is dependent on future inflation expectations, as well as the ‘real interest rate’ – the rental cost of money. Borrowers might pay extra on top in order to compensate lenders for the credit risk.
+
+Investment bank: a bank providing financial services for governments, companies or very wealthy individuals, as compared to commercial banks, which provide loans and savings accounts to the general public.
+
+Investment management: the buying and selling of securities (see securities) and assets (see asset) within a portfolio to achieve investment objectives.
+
+Investment trust: similar to unit trusts – collective investment but with a different structure. Investment trusts’ value fluctuates with demand for shares on the stockmarket. The price of an investment trust does not necessarily equal the price of its underlying assets.
+
+Leveraged buy out (LBO): takeover of a company funded by high-risk bonds or loans.
+
+Leveraging: using debt to supplement investment. An institution that has borrowed heavily in addition to its funds or equity to finance growth is said to be highly leveraged.
+
+Libor: London Inter Bank Offered Rate. The rate at which banks offer money to each other.
+
+Liquidity: ability of an asset to be traded quickly without changing the market price.
+
+Market maker: bank that is obliged to offer to trade securities in which it is registered throughout the trading day.
+
+Money market: the market for short-term funding such as certificates of deposit and treasury bills. Money market securities typically have a maturity of less than one year.
+
+Nice decade: the period of non-inflationary constant expansion that followed the Government’s move to give the Bank of England the freedom to set interest rates independently, soon after the Labour landslide in 1997. In May 2008 Mervyn King, the governor of the Bank of England at the time, warned, ‘For the time being at least, the Nice decade is behind us.’
+
+Options: similar to futures, but provide the buyer with the right rather than the obligation to complete the contract.
+
+Portfolio: collection of securities held by an investor. Also known as a ‘fund’.
+
+Principal: an investor who trades for his/her own account and risk.
+
+Private equity: high risk and high return investment, holding large stakes in illiquid companies.
+
+Proprietory trading: trading carried out using the firm’s capital on its own behalf.
+
+Pure risk: a type of risk where the only consideration is the possibility of loss. Speculative risk in contrast offers the possibility of loss or gain.
+
+Risk management: management of the pure risks to which a company might be subject. It involves analysing all possible risks and determining how to handle this exposure through trading out, or transferring the risk with derivatives.
+
+Secondary market: the trading of securities. The ‘primary market’ means the launching (issuing) of bonds and equities for the first time.
+
+Securities: generic term for bonds, gilts and equities.
+
+Securitisation: turning something into a security, for example, combining the debt from a number of mortgages to create a financial product that can be traded. Banks owning securities that include mortgage debt receive income when homeowners make mortgage payments.
+
+Settlement: once a deal has been made and clearing taken place, stock and cash transfer between seller and buyer.
+
+Short selling: when investors borrow an asset, such as shares, from another investor and then sell it in the relevant market hoping the price will fall. The aim is to buy back the asset at a lower price and return it to its owner, pocketing the difference.
+
+Spread: difference between bid and offer price – one way in which banks make profits.
+
+Stag: speculator who buys shares at issue to sell them as soon as they trade on the market. Also called flippers.
+
+Stagflation: a combination of stagnation and inflation, when economic growth slows as prices continue to rise.
+
+Sub-prime loans: high-risk loans to clients with poor or no credit histories.
+
+Swap rates: the borrowing rates between financial institutions.
+
+Toxic debt: shorthand for types of assets that have caused severe problems for the financial institutions that held them since the onset of the credit crunch. US sub-prime mortgage debt was the original toxic debt. 
+
+Unit trust: the trust issues units which represent holdings of the underlying shares. The fund is divided into units which investors trade with the fund management group.
+
+Universal bank: bank offering financial services typical of both investment and commercial banking to consumers and small businesses as well as corporate clients.
+
+Yield: the total return on a security expressed as a proportion of its price.
